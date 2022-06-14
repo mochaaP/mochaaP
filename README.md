@@ -1,16 +1,34 @@
-### Hi there 👋
+<h2 align="center">👋 We're moving!</h2>
 
-<!--
-**mochaaP/mochaaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### tl;dr
 
-Here are some ideas to get you started:
+- Legacy projects will be archived or stay in maintenance
+mode
+- New projects and new features will only be available on
+new hosting platforms
+- As long as you are not using outdated solutions, this
+will never affect you
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I haven't pay GitHub for a cent and I really don't trust
+Microsoft that much on this thing. Furthermore, due to
+the continuous abusement behaviors happening on GitHub,
+it's really just a matter of time for it to get down,
+in certain regions or for everyone.
+
+Anyways, as for those personal projects, they will be
+migrated to [sourcehut](https://sr.ht/). I don't feel
+very comfortable presenting and promoting you, audiences
+on GitHub, every bit of my warranty-less software. I
+do open source for purely fun and hope they can possibly
+help others, but the reality is I don't have that much
+efforts to maintain all the public facing things.
+
+mochaaNetwork's infrastructure will be also migrated to
+an on-premises private hosting service. Sorry if this
+brings inconvenience. If you are a customer, this won't
+affect you as an end user. We still have a great code
+transparent policy, but please send inquiry to us first.
+
+Thank you for your understanding!
