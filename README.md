@@ -1,5 +1,3 @@
-[← prev](https://octo-ring.com/p/mochaaP/prev) [octo-ring](https://octo-ring.com) [🍀](https://octo-ring.com/p/mochaaP/random) [next →](https://octo-ring.com/p/mochaaP/next)
-
 <h2 align="center">👋 relocation notice</h2>
 
 ### tl;dr
